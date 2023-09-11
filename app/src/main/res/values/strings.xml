@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">Android-Lesson-11-NewApp</string>
+    <string name="details_bbc_news">BBC News</string>
+    <string name="details_last_time">14m ago</string>
+    <string name="details_following">Following</string>
+    <string name="details_country_name">Europe</string>
+    <string name="details_content_description">Ukrainian President Volodymyr Zelensky has accused European countries that continue to buy Russian oil of "earning their money in other people\'s blood".\n
+
+In an interview with the BBC, President Zelensky singled out Germany and Hungary, accusing them of blocking efforts to embargo energy sales, from which Russia stands to make up to £250bn ($326bn) this year.
+
+There has been a growing frustration among Ukraine\'s leadership with Berlin, which has backed some sanctions against Russia but so far resisted calls to back tougher action on oil sales.</string>
+    <string name="details_content_title">Ukraine\'s President Zelensky to BBC: Blood money being paid for Russian oil</string>
+    <string name="details_K">24.5K</string>
+    <string name="details_K_comment">1K</string>
+
+</resources>
